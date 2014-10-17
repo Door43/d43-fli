@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fli:home|Door43 (fli)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fli|d43-fli repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fli/archive/master.zip|d43-fli.zip]]
+
+**Recent Changes**
+{{changes>ns = fli}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fli|Ethnologue data]]
+
